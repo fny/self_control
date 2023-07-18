@@ -7,8 +7,6 @@ Control flow with an audit trail for conditional statements. Track your ifs and 
 SelfControl was sponsored by Greenlight COVID-19 monitoring to
 debug deeply nested logic used to determine whether students and teachers are fit to return to school.
 
-Learn more about how [Greenlight can help your schools can keep the coronavirus at bay](https://greenlighted.org). Interested in working for Greenlight? Email faraz {at} greenlightready {dot} com.
-
 ## Installation
 
 Add this line to your application's Gemfile:
